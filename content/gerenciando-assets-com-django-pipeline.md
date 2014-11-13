@@ -70,7 +70,7 @@ Para incluirmos os arquivos configurados no passo anterior no nosso template é 
 
 Colocando em produção
 
-Para deixar o ambiente pronto para produção vamos definir um dos storages disponíveis no pipeline. Você pode ver as opções de storage disponíveis na documentação do django-pipeline. Você pode ler mais sobre os storage systems customizados aqui
+Para deixar o ambiente pronto para produção vamos definir um dos storages disponíveis no pipeline. Você pode ver as opções de storage disponíveis na documentação do django-pipeline. Você pode ler mais sobre os storage systems customizados aqui:
 
 ```python
 STATICFILES_FINDERS = (
